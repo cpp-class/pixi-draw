@@ -25,8 +25,8 @@ int main(void)
 {
     // Initialization
     //--------------------------------------------------------------------------------------
-    const int screen_width = 1000;
-    const int screen_height = 800;
+    const int screen_width = 800;
+    const int screen_height = 600;
 
     int circle_x = screen_width / 3;
     int circle_y = screen_height / 3;
@@ -43,11 +43,11 @@ int main(void)
 
     	if (IsKeyDown(KEY_UP))
     	{
-    		circle_y -= 5;
+    		circle_y -= 2;
     	}
     	else if (IsKeyDown(KEY_DOWN))
     	{
-    		circle_y = circle_y + 5;
+    		circle_y = circle_y + 2;
     	}
 
         // Draw
