@@ -32,3 +32,6 @@
 *.app
 /Debug/
 .settings/
+/linuxbuild/
+!lib/*/*.a
+/debuglinux/
