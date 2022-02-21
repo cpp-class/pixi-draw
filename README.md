@@ -1,5 +1,8 @@
-# Bouncing Ball
-Bouncing Ball based on Raylib (prebuild library for Win64)
+# Pixi Draw
+Draw small pixi bitmap shapes using Raylib.
+
+**NOTE: This code is for learning CPP and is not completed. Please fork the repository and 
+complete the engine functions**
 
 Compiled with `winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64-9.0.0-r3`
 
