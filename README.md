@@ -2,7 +2,7 @@
 Draw small pixi bitmap shapes using Raylib.
 
 **NOTE: This code is for learning CPP and is not completed. Please fork the repository and 
-complete the engine functions**
+complete the engine functions (in `pixiengine.cpp`)**
 
 ## Target Operation
 ![](pixi_draw1.gif)
